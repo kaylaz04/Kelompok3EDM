@@ -25,3 +25,4 @@ Kelompok 3 EDM:
 
 🔥 Dibuat dengan semangat oleh **Kelompok 3 EDM** 🔥
 
+source : https://github.com/entbappy/Car-Number-Plates-Detection.git
